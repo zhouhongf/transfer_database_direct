@@ -30,7 +30,7 @@ class Config:
         'port': 27017,
         'db': GROUP_NAME,
         'username': 'root',
-        'password': 'Zhouhf873@',
+        'password': '123456',
     }
 
     MONGO_DICT_REMOTE = {
@@ -38,7 +38,7 @@ class Config:
         'port': 27017,
         'db': GROUP_NAME,
         'username': 'myuser',
-        'password': 'Zhouhf873',
+        'password': '123456',
     }
 
     MYSQL_DICT_REMOTE = {
@@ -46,5 +46,5 @@ class Config:
         'port': 3306,
         'db': 'ubank',
         'user': 'root',
-        'password': '20110919Zyy==20170215Zyy',
+        'password': '123456',
     }
